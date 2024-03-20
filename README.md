@@ -8,6 +8,14 @@
 </p>
 <p align='center'>
 <a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
+  name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
 </p>
 <!--
 **alperendiler/alperendiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
