@@ -6,6 +6,9 @@
 <a href="https://gist.github.com/alperendiler"><img src="https://img.shields.io/badge/my%20gists-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/alperendiler"><img src="https://api.visitorbadge.io/api/VisitorHit?user=alperendiler1&countColor=%237B1E7A" /></a>
 </p>
+<p align='center'>
+<a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
+</p>
 <!--
 **alperendiler/alperendiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
