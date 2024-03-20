@@ -1,7 +1,10 @@
 ### Hi there 👋, I'am Alperen Diler
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alperen-diler-473aa1201/) [![Email](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](alperendiler@gmail.com) [![Email](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://gist.github.com/alperendiler)
-
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/ahmet-cetinkaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--<a href="https://www.linkedin.com/in/alperen-diler-473aa1201/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
+<a href="mailto:alperendiler1@gmail.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/alperendiler"><img src="https://api.visitorbadge.io/api/VisitorHit?user=alperendiler1&countColor=%237B1E7A" /></a>
+</p>
 <!--
 **alperendiler/alperendiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
