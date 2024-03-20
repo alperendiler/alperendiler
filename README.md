@@ -1,5 +1,5 @@
 ### Hi there 👋, I'am Alperen Diler
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([profilinizin linki](https://www.linkedin.com/in/alperen-diler-473aa1201/))
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alperen-diler-473aa1201/)
 
 <!--
 **alperendiler/alperendiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
