@@ -7,14 +7,8 @@
 <a href="https://github.com/alperendiler"><img src="https://api.visitorbadge.io/api/VisitorHit?user=alperendiler1&countColor=%237B1E7A" /></a>
 </p>
 <p align='center'>
-<a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/alperendiler"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
-  name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperendiler&hide=javascript,css,scss,html&theme=tokyonight)
+ 
 
 </p>
 <!--
