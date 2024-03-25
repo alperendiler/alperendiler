@@ -7,10 +7,11 @@
 <a href="https://github.com/alperendiler"><img src="https://api.visitorbadge.io/api/VisitorHit?user=alperendiler1&countColor=%237B1E7A" /></a>
 </p>
 <p align='center'>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alperendiler)](https://github.com/alperendiler/github-readme-stats)
  
 
 </p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alperendiler)](https://github.com/alperendiler/github-readme-stats)
+
 <!--
 **alperendiler/alperendiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
